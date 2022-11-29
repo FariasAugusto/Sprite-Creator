@@ -2,7 +2,8 @@ import './slides.css';
 
 function slides() {
     return (
-        <slides>
+        <slides classname = 'spriteSlides'>
+            
         </slides>
     )
 }
