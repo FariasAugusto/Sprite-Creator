@@ -1,0 +1,23 @@
+.navbar{
+
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #262626;
+    
+}
+
+.navegacao {
+
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu {
+
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
