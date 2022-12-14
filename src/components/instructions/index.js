@@ -1,9 +1,8 @@
+import React from 'react';
 import './instructions.css';
 
-function instructions() {
-    return (
-        <instructions classname='instrucoes'>
-
+const instructions = (props) => (
+    <div>
             <div classname='passoapasso'>
 
                 <h3 classname='tituloPassoaPasso'>
@@ -51,8 +50,7 @@ function instructions() {
 
             </div>
 
-        </instructions>
-    )
-}
+        </div>
+); 
 
 export default instructions;
