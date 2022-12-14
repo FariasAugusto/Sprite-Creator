@@ -23,6 +23,7 @@
     color: #66D9CD;
 
 }
+
 .explicacaoPassoaPasso {
 
     /*procurar fonte para font-family*/
