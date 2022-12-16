@@ -10,9 +10,7 @@ const Footer = (props) => (
 
         <ItemFooter>Idiomas</ItemFooter>
 
-        <a classname='atalhosFooter' href=''>
-            Sobre Nós
-        </a> {/*  Substituir o ultimo componente */}
+        <ItemFooter>Sobre Nós</ItemFooter>
 
     </footer>
     
