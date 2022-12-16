@@ -1,7 +1,7 @@
 import React from 'react';
-import './instructions.css';
+import './styles.js';
 
-const instructions = (props) => (
+const Instructions = (props) => (
     <div>
             <div classname='passoapasso'>
 
