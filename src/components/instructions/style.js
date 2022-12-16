@@ -1,33 +1,33 @@
-.instructions {
+// .instructions {
 
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    background-color: #262626;
+//     flex-direction: row;
+//     justify-content: space-around;
+//     align-items: center;
+//     background-color: #262626;
 
-}
+// }
 
-.passoapasso {
+// .passoapasso {
 
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
+//     flex-direction: column;
+//     justify-content: space-around;
+//     align-items: center;
 
-}
+// }
 
-.tituloPassoaPasso {
+// .tituloPassoaPasso {
 
-    /*procurar fonte para font-family*/
-    font-family: ;
-    font-size: 45px;
-    color: #66D9CD;
+//     /*procurar fonte para font-family*/
+//     font-family: ;
+//     font-size: 45px;
+//     color: #66D9CD;
 
-}
+// }
 
-.explicacaoPassoaPasso {
+// .explicacaoPassoaPasso {
 
-    /*procurar fonte para font-family*/
-    font-family: ;
-    font-size: 25px;
-    color: #66D9CD;
-}
+//     /*procurar fonte para font-family*/
+//     font-family: ;
+//     font-size: 25px;
+//     color: #66D9CD;
+// }
