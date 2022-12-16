@@ -2,9 +2,13 @@ import React from "react";
 
 const ItemMiniLibrary = (props) => (
 
-    <a>
-        Ver Tudo...
-    </a>
+    <ItemMiniLibrary>
+
+        <a>
+            Ver Tudo...
+        </a>
+
+    </ItemMiniLibrary>
 
 );
 
