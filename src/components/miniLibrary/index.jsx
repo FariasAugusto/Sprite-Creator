@@ -3,9 +3,9 @@ import ItemMiniLibrary from '/.itemMiniLibrary';
 
 const MiniLibrary = (props) => (
     
-    <ItemMiniLibrary><ItemMiniLibrary/>
+    <ItemMiniLibrary>Seus favoritos...<ItemMiniLibrary/>
     
-    <ItemMiniLibrary><ItemMiniLibrary/>
+    <ItemMiniLibrary>Seus Sprites<ItemMiniLibrary/>
 
 );
 
