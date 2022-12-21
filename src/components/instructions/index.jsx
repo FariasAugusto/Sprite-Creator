@@ -1,31 +1,15 @@
 import React from 'react';
-import './instructions.css';
+import './styles.js';
 
-const Instructions = (props) => (
-    
-    <Instructions>
-        
-        <ItemInstrucoes></ItemInstrucoes>
+const instructions = (props) => (
+    <div>
+            <div classname='passoapasso'>
 
-        <ItemInstrucoes></ItemInstrucoes>
+                <h3 classname='tituloPassoaPasso'>
+                    Procure...
+                </h3>
 
-        <ItemInstrucoes></ItemInstrucoes>
-
-    </Instructions>
-
-/* <TituloInstrucoes></TituloInstrucoes>
-
-<ImagemInstrucoes></ImagemInstrucoes>
-
-<TextoInstrucoes></TextoInstrucoes> */
-    // <div>
-    //         <div classname='passoapasso'>
-
-    //             <h3 classname='tituloPassoaPasso'>
-    //                 Procure...
-    //             </h3>
-
-    //             <img src='public\enfeiteLupa.png' alt='Ilustração Passo I' />
+                <img src='public\enfeiteLupa.png' alt='Ilustração Passo I' />
 
     //             <p classname='explicacaoPassoaPasso'>
     //                 Aqui no SpriteCreator, existem várias pessoas que diaramente criam seus Sprites e postam aqui para todos usarem! 
