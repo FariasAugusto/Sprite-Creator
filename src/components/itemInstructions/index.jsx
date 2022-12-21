@@ -1,8 +1,18 @@
 import React from "react";
 import './styles.js';
 
-const ItemInstrucoes = (props) => (
+const ItemInstructions = (props) => (
 
-    <Instrucoes></Instrucoes>
+    <ItemInstructions>
+
+        <TituloInstructions></TituloInstructions>
+
+        <ImgInstructions></ImgInstructions>
+
+        <TextoInstructions></TextoInstructions>
+
+    </ItemInstructions>
 
 );
+
+export default ItemInstructions;
