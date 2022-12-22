@@ -9,21 +9,6 @@ export const customInstructions = styled.div`
 
 `;
 
-// .passoapasso {
-
-//     flex-direction: column;
-//     justify-content: space-around;
-//     align-items: center;
-
-// }
-
-// .tituloPassoaPasso {
-
-//     /*procurar fonte para font-family*/
-//     font-family: ;
-//     font-size: 45px;
-//     color: #66D9CD;
-
 // }
 
 // .explicacaoPassoaPasso {
