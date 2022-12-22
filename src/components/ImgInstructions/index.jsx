@@ -3,7 +3,11 @@ import './styles.js';
 
 const ImgInstructions = (props) => (
     
-    <ImgInstructions></ImgInstructions>
+    <ImgInstructions>
+    
+        {props.children}
+    
+    </ImgInstructions>
 
 );
 

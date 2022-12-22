@@ -3,7 +3,11 @@ import './styles.js';
 
 const TituloInstructions = (props) => (
     
-    <TituloInstructions></TituloInstructions>
+    <TituloInstructions>
+
+        {props.children}
+
+    </TituloInstructions>
 
 );
 

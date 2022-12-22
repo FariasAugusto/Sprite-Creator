@@ -1,17 +1,13 @@
 import React from "react";
-import { Title } from "./styles";
+import { ItemNavegacao } from "./styles";
 
 const ItemNavegacao = (props) => (
 
-    <div>
+    <ItemNavegacao>
 
-        <Title>
+        {props.children}
 
-            {props.children}
-
-        </Title>
-        
-    </div>
+    </ItemNavegacao>
 
 )
 

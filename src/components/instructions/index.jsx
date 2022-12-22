@@ -1,5 +1,6 @@
 import React from 'react';
 import './styles.js';
+import './ItemInstructions';
 
 const Instructions = (props) => (
     

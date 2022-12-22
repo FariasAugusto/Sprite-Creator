@@ -3,7 +3,11 @@ import './styles.js';
 
 const TextoInstructions = (props) => (
     
-    <TextoInstructions></TextoInstructions>
+    <TextoInstructions>
+
+        {props.children}
+
+    </TextoInstructions>
 
 );
 
