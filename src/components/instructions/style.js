@@ -1,13 +1,13 @@
 import styled from 'styled-components';
 
-// .instructions {
+export const customInstructions = styled.div`
 
-//     flex-direction: row;
-//     justify-content: space-around;
-//     align-items: center;
-//     background-color: #262626;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #262626;
 
-// }
+`;
 
 // .passoapasso {
 
