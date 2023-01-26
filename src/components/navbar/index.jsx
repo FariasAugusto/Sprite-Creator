@@ -2,19 +2,13 @@ import React from 'react';
 import ItemMenu from '../itemMenu';
 import Navegacao from '../navegacao';
 
-
 const Navbar = (props) => (
 
-    <navbar>
-
-        <img src='public\iconeLogo.png' alt='Ícone SpriteCreator' />
-
-        <Navegacao></Navegacao>
-
-        <Menu></Menu>
-
-    </navbar>
-    
+    <nav>
+        <img src='public/iconeLogo.png' alt='Ícone spriteCreator' />
+        <Navegacao />
+        <ItemMenu />
+    </nav>
 );
 
 export default Navbar;
